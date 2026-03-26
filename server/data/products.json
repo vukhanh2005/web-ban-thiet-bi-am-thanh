@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Tai nghe Bluetooth Nova Beat",
+    "price": 890000,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+    "description": "Tai nghe không dây pin 30 giờ, chống ồn nhẹ và kết nối Bluetooth 5.3.",
+    "category": "Âm thanh"
+  },
+  {
+    "id": 2,
+    "name": "Bàn phím cơ Aurora K87",
+    "price": 1290000,
+    "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&w=900&q=80",
+    "description": "Layout TKL gọn gàng, switch tactile, đèn nền RGB và cáp rời USB-C.",
+    "category": "Phụ kiện"
+  },
+  {
+    "id": 3,
+    "name": "Chuột gaming Falcon X1",
+    "price": 690000,
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=900&q=80",
+    "description": "Cảm biến 26000 DPI, form đối xứng và trọng lượng nhẹ cho chơi game lẫn làm việc.",
+    "category": "Phụ kiện"
+  },
+  {
+    "id": 4,
+    "name": "Loa mini Orbit Sound",
+    "price": 540000,
+    "image": "https://images.unsplash.com/photo-1589003077984-894e133dabab?auto=format&fit=crop&w=900&q=80",
+    "description": "Loa Bluetooth nhỏ gọn, âm bass chắc, chống nước IPX6 cho nhu cầu di động.",
+    "category": "Âm thanh"
+  },
+  {
+    "id": 5,
+    "name": "Đồng hồ thông minh Pulse S",
+    "price": 2190000,
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=900&q=80",
+    "description": "Theo dõi nhịp tim, giấc ngủ, cuộc gọi Bluetooth và màn hình AMOLED 1.9 inch.",
+    "category": "Thiết bị thông minh"
+  },
+  {
+    "id": 6,
+    "name": "Sạc nhanh GaN Volt 65W",
+    "price": 450000,
+    "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=900&q=80",
+    "description": "Sạc nhanh 2 cổng USB-C, hỗ trợ laptop, điện thoại và tablet.",
+    "category": "Phụ kiện"
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "id": "ORD-1774491172471",
+    "userId": "117714356676916816980",
+    "customerName": "Khanh Nguyen",
+    "items": [
+      {
+        "id": 1,
+        "name": "Tai nghe Bluetooth Nova Beat",
+        "price": 890000,
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+        "description": "Tai nghe không dây pin 30 giờ, chống ồn nhẹ và kết nối Bluetooth 5.3.",
+        "category": "Âm thanh",
+        "quantity": 2
+      },
+      {
+        "id": 2,
+        "name": "Bàn phím cơ Aurora K87",
+        "price": 1290000,
+        "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&w=900&q=80",
+        "description": "Layout TKL gọn gàng, switch tactile, đèn nền RGB và cáp rời USB-C.",
+        "category": "Phụ kiện",
+        "quantity": 3
+      },
+      {
+        "id": 3,
+        "name": "Chuột gaming Falcon X1",
+        "price": 690000,
+        "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=900&q=80",
+        "description": "Cảm biến 26000 DPI, form đối xứng và trọng lượng nhẹ cho chơi game lẫn làm việc.",
+        "category": "Phụ kiện",
+        "quantity": 3
+      }
+    ],
+    "totalPrice": 7720000,
+    "createdAt": "2026-03-26T02:12:52.471Z",
+    "paymentCode": "PAY-XQGJWI",
+    "expiresAt": "2026-03-26T02:27:52.471Z",
+    "status": "paid"
+  },
+  {
+    "id": "ORD-1774333497943",
+    "userId": "117714356676916816980",
+    "customerName": "Khanh Nguyen",
+    "items": [
+      {
+        "id": 1,
+        "name": "Tai nghe Bluetooth Nova Beat",
+        "price": 890000,
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+        "description": "Tai nghe không dây pin 30 giờ, chống ồn nhẹ và kết nối Bluetooth 5.3.",
+        "category": "Âm thanh",
+        "quantity": 6
+      }
+    ],
+    "totalPrice": 5340000,
+    "createdAt": "2026-03-24T06:24:57.943Z",
+    "paymentCode": "PAY-MA0FF7",
+    "expiresAt": "2026-03-24T06:39:57.943Z",
+    "status": "paid"
+  },
+  {
+    "id": "ORD-1774286370931",
+    "userId": "103535736033469478776",
+    "customerName": "Hdhs Qjhsna",
+    "items": [
+      {
+        "id": 5,
+        "name": "Đồng hồ thông minh Pulse S",
+        "price": 2190000,
+        "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=900&q=80",
+        "description": "Theo dõi nhịp tim, giấc ngủ, cuộc gọi Bluetooth và màn hình AMOLED 1.9 inch.",
+        "category": "Thiết bị thông minh",
+        "quantity": 10
+      }
+    ],
+    "totalPrice": 21900000,
+    "createdAt": "2026-03-23T17:19:30.931Z",
+    "paymentCode": "PAY-TDHOSL",
+    "expiresAt": "2026-03-23T17:34:30.931Z",
+    "status": "paid"
+  },
+  {
+    "id": "ORD-1774284450695",
+    "userId": "117714356676916816980",
+    "customerName": "Khanh Nguyen",
+    "items": [
+      {
+        "id": 2,
+        "name": "Bàn phím cơ Aurora K87",
+        "price": 1290000,
+        "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&w=900&q=80",
+        "description": "Layout TKL gọn gàng, switch tactile, đèn nền RGB và cáp rời USB-C.",
+        "category": "Phụ kiện",
+        "quantity": 3
+      }
+    ],
+    "totalPrice": 3870000,
+    "createdAt": "2026-03-23T16:47:30.695Z",
+    "paymentCode": "PAY-25JGZM",
+    "expiresAt": "2026-03-23T17:02:30.695Z",
+    "status": "paid"
+  },
+  {
+    "id": "ORD-1774283958854",
+    "userId": "117714356676916816980",
+    "customerName": "Khanh Nguyen",
+    "items": [
+      {
+        "id": 1,
+        "name": "Tai nghe Bluetooth Nova Beat",
+        "price": 890000,
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+        "description": "Tai nghe không dây pin 30 giờ, chống ồn nhẹ và kết nối Bluetooth 5.3.",
+        "category": "Âm thanh",
+        "quantity": 7
+      },
+      {
+        "id": 2,
+        "name": "Bàn phím cơ Aurora K87",
+        "price": 1290000,
+        "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&w=900&q=80",
+        "description": "Layout TKL gọn gàng, switch tactile, đèn nền RGB và cáp rời USB-C.",
+        "category": "Phụ kiện",
+        "quantity": 3
+      }
+    ],
+    "totalPrice": 10100000,
+    "createdAt": "2026-03-23T16:39:18.854Z",
+    "status": "pending"
+  },
+  {
+    "id": "ORD-1774283608360",
+    "userId": "117714356676916816980",
+    "customerName": "Khanh Nguyen",
+    "items": [
+      {
+        "id": 2,
+        "name": "Bàn phím cơ Aurora K87",
+        "price": 1290000,
+        "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&w=900&q=80",
+        "description": "Layout TKL gọn gàng, switch tactile, đèn nền RGB và cáp rời USB-C.",
+        "category": "Phụ kiện",
+        "quantity": 7
+      }
+    ],
+    "totalPrice": 9030000,
+    "createdAt": "2026-03-23T16:33:28.360Z",
+    "status": "pending"
+  },
+  {
+    "id": "ORD-1774283586978",
+    "userId": "117714356676916816980",
+    "customerName": "Khanh Nguyen",
+    "items": [
+      {
+        "id": 6,
+        "name": "Sạc nhanh GaN Volt 65W",
+        "price": 450000,
+        "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=900&q=80",
+        "description": "Sạc nhanh 2 cổng USB-C, hỗ trợ laptop, điện thoại và tablet.",
+        "category": "Phụ kiện",
+        "quantity": 10
+      }
+    ],
+    "totalPrice": 4500000,
+    "createdAt": "2026-03-23T16:33:06.978Z",
+    "status": "pending"
+  },
+  {
+    "id": "ORD-1774283537575",
+    "userId": "test-user",
+    "customerName": "Test User",
+    "items": [
+      {
+        "id": 1,
+        "name": "Demo",
+        "price": 1000,
+        "quantity": 2
+      }
+    ],
+    "totalPrice": 2000,
+    "createdAt": "2026-03-23T16:32:17.575Z",
+    "paymentCode": "PAY-G4ZN9D",
+    "expiresAt": "2026-03-23T16:47:17.575Z",
+    "status": "pending_payment"
+  },
+  {
+    "id": "ORD-1774283527314",
+    "userId": "test-user",
+    "customerName": "Test User",
+    "items": [
+      {
+        "id": 1,
+        "name": "Demo",
+        "price": 1000,
+        "quantity": 2
+      }
+    ],
+    "totalPrice": 2000,
+    "createdAt": "2026-03-23T16:32:07.314Z",
+    "status": "pending"
+  },
+  {
+    "id": "ORD-1774283202827",
+    "userId": "117714356676916816980",
+    "customerName": "Khanh Nguyen",
+    "items": [
+      {
+        "id": 2,
+        "name": "Bàn phím cơ Aurora K87",
+        "price": 1290000,
+        "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&w=900&q=80",
+        "description": "Layout TKL gọn gàng, switch tactile, đèn nền RGB và cáp rời USB-C.",
+        "category": "Phụ kiện",
+        "quantity": 4
+      }
+    ],
+    "totalPrice": 5160000,
+    "createdAt": "2026-03-23T16:26:42.827Z",
+    "status": "pending"
+  },
+  {
+    "id": "ORD-1774282011565",
+    "userId": "117714356676916816980",
+    "customerName": "Khanh Nguyen",
+    "items": [
+      {
+        "id": 1,
+        "name": "Tai nghe Bluetooth Nova Beat",
+        "price": 890000,
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+        "description": "Tai nghe không dây pin 30 giờ, chống ồn nhẹ và kết nối Bluetooth 5.3.",
+        "category": "Âm thanh",
+        "quantity": 2
+      },
+      {
+        "id": 2,
+        "name": "Bàn phím cơ Aurora K87",
+        "price": 1290000,
+        "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?auto=format&fit=crop&w=900&q=80",
+        "description": "Layout TKL gọn gàng, switch tactile, đèn nền RGB và cáp rời USB-C.",
+        "category": "Phụ kiện",
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Chuột gaming Falcon X1",
+        "price": 690000,
+        "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?auto=format&fit=crop&w=900&q=80",
+        "description": "Cảm biến 26000 DPI, form đối xứng và trọng lượng nhẹ cho chơi game lẫn làm việc.",
+        "category": "Phụ kiện",
+        "quantity": 1
+      },
+      {
+        "id": 4,
+        "name": "Loa mini Orbit Sound",
+        "price": 540000,
+        "image": "https://images.unsplash.com/photo-1589003077984-894e133dabab?auto=format&fit=crop&w=900&q=80",
+        "description": "Loa Bluetooth nhỏ gọn, âm bass chắc, chống nước IPX6 cho nhu cầu di động.",
+        "category": "Âm thanh",
+        "quantity": 1
+      },
+      {
+        "id": 6,
+        "name": "Sạc nhanh GaN Volt 65W",
+        "price": 450000,
+        "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0?auto=format&fit=crop&w=900&q=80",
+        "description": "Sạc nhanh 2 cổng USB-C, hỗ trợ laptop, điện thoại và tablet.",
+        "category": "Phụ kiện",
+        "quantity": 1
+      }
+    ],
+    "totalPrice": 4750000,
+    "createdAt": "2026-03-23T16:06:51.565Z",
+    "status": "pending"
+  }
+]
